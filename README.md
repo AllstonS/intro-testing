@@ -71,3 +71,4 @@ In addition to completing normal mode, uncomment line 22 in [`javascript-koans/K
 
 * Read [Jasmine](http://jasmine.github.io/2.2/introduction.html)
 # testingIntro
+# intro-testing
